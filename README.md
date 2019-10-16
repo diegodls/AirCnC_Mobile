@@ -16,9 +16,9 @@ O sistema possi gerenciamento de estado, envio de arquivos e dados.\
 Possui também comunicação real-time, onde eventos feitos na versão [Web](https://github.com/diegodls/AirCnC_Web) são transmitidos no mesmo momento para o aplicativo e vice-versa.
 
 # Dependências
-
+[react-navigation](https://reactnavigation.org/docs/en/getting-started.html)(_e todas as suas dependências_)\
 [axios](https://www.npmjs.com/package/axios)\
-[react-router-dom](https://www.npmjs.com/package/react-router-dom)\
+[@react-native-community/async-storage](https://github.com/react-native-community/async-storage)\
 [socket.io-client](https://www.npmjs.com/package/socket.io-client)
 
 ###### Partes do sistema:
@@ -52,7 +52,7 @@ Após instalação das dependências e edição dos arquivos, insira o comando `
 
 # Notas
 O sistema está funcionando perfeitamente, faltando apenas alguns ajustes no controle de informações e alguns campos, atualizações poderão ser feitas.\
-Talvez há a necessidade de atualização das dependências, gradle ou do próprio react, sinta-se livre para fazê-lo.\
+Atualizações das dependências, gradle ou do próprio react, sinta-se livre para fazê-lo.\
 Sempre confira os links das dependências por possíveis soluções.\
 Novamente agradecendo ao pessoal da [RocketSeat](www.rocketseat.com).
 
