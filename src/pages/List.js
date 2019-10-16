@@ -11,8 +11,8 @@ import SpotList from '../components/SpotList';
 
 export default function List({ navigation }) {
     const [techs, setTechs] = useState([]);
-    const socketURL = 'http://192.168.100.17:3333'
-    //exemplo de URL = 'http://192.168.1.1:3333'
+    const socketURL = 'SUA_URL_AQUI'
+    //exemplo de URL = 'http://192.168.1.1:3333', essa url é a url do seu servidor/pc seguida pela porta de comunicação
 
     useEffect(() => {//esse metodo renderiza um alert caso  reserva seja aceita/rejeitada, em tempo real
         AsyncStorage.getItem('user').then(user_id => {
