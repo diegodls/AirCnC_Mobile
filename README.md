@@ -1,4 +1,4 @@
-# AirCnC_Web
+# AirCnC_Mobile
 Aplicativo desenvolvido em React Native que faz parte do sistema AirCnC.\
 
 ![aircnc_mobile_png](https://user-images.githubusercontent.com/41457134/66956445-cbd4c880-f03a-11e9-813c-bdc5ba874d91.png)
