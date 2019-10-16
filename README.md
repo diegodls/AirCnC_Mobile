@@ -5,7 +5,7 @@ Aplicativo desenvolvido em React Native que faz parte do sistema AirCnC.\
 
 # Sobre
 Esse sistema tem como objetivo desenvolver um sistema completo, desde o back-end até o front-end, incluindo mobile com base no sistema [AirBnB](https://www.airbnb.com.br/).\
-O usuário pode cadastrar lugares para as pessoas estudar, visitar, conhecer, enfim, irem até esses lugares.\
+O usuário pode logar usando email e as tecnologias de seu interesse e solicitar uma reserva a esses lugares para estudar, visitar, conhecer, enfim, irem até esses lugares.\
 Com o back-end sendo desenvolvido em NodeJs, o front-end foi desenvolvido em React, e o Mobile foi desenvolvido em React Native utilizando as dependências abaixo, o que facilita na manutenção e interação com o [back-end](https://github.com/diegodls/AirCnC_server) e [Web](https://github.com/diegodls/AirCnC_Web), uma vez que boa parte do código pode ser reaproveitada em ambas as tecnologias.\
 Sistema desenvolvido para colocar o conhecimento adiquirido a prova, conhecimento ese obtido em um mini-curso fornecido pela [RocketSeat](https://rocketseat.com.br), agradecimento a todo o pessoal por esse ótimo conteúdo.
 
